@@ -149,3 +149,21 @@ footer{
   width:32px;
   height:32px;
 }
+.subtitle{
+  color:#e8f5e9;
+  font-size:20px;
+  margin:8px 0;
+}
+
+header h2{
+  font-size:38px;
+  color:#ffd54f;
+  letter-spacing:3px;
+  margin:15px 0 10px;
+}
+
+.tagline{
+  font-size:18px;
+  color:#ffffff;
+  font-style:italic;
+}
