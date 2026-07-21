@@ -89,3 +89,37 @@ footer{
   background: #fff;
   color: #d32f2f;
 }
+#about,
+#why-us,
+#quality {
+    background: #ffffff;
+    margin: 30px auto;
+    padding: 40px 20px;
+    max-width: 1000px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+#about h2,
+#why-us h2,
+#quality h2 {
+    color: #c62828;
+    margin-bottom: 20px;
+}
+
+#about p,
+#quality p {
+    color: #555;
+    line-height: 1.8;
+    font-size: 17px;
+}
+
+#why-us ul {
+    list-style: none;
+    padding: 0;
+}
+
+#why-us li {
+    margin: 12px 0;
+    font-size: 17px;
+}
