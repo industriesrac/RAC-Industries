@@ -279,3 +279,35 @@ nav {
 nav a {
   color: #0b6b2f !important;
 }
+.hero-text{
+  max-width:600px;
+  margin:20px auto;
+  font-size:18px;
+  line-height:1.8;
+  color:#f5f5f5;
+}
+
+.hero-buttons{
+  margin-top:25px;
+}
+
+.btn{
+  display:inline-block;
+  padding:12px 25px;
+  margin:5px;
+  border-radius:30px;
+  background:#ffd54f;
+  color:#0b6b2f;
+  text-decoration:none;
+  font-weight:bold;
+  transition:.3s;
+}
+
+.btn:hover{
+  transform:translateY(-3px);
+}
+
+.btn-outline{
+  background:white;
+  color:#0b6b2f;
+}
