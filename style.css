@@ -269,3 +269,13 @@ nav{
   text-align:center;
   padding:15px;
 }
+nav {
+  background: #ffffff !important;
+  text-align: center;
+  padding: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+nav a {
+  color: #0b6b2f !important;
+}
