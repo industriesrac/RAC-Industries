@@ -59,3 +59,33 @@ footer{
   text-align:center;
   padding:30px;
 }
+.hero-buttons {
+  margin-top: 25px;
+}
+
+.btn {
+  display: inline-block;
+  background: #d32f2f;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 30px;
+  margin: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #b71c1c;
+}
+
+.btn-outline {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-outline:hover {
+  background: #fff;
+  color: #d32f2f;
+}
