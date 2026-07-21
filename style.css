@@ -185,3 +185,26 @@ header h2{
 .order-btn:hover{
   background:#084d22;
 }
+nav{
+  margin-top:25px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  padding:10px;
+}
+
+nav a{
+  display:inline-block;
+  color:#fff;
+  text-decoration:none;
+  margin:0 12px;
+  font-weight:bold;
+  padding:8px 12px;
+  border-radius:20px;
+  transition:.3s;
+}
+
+nav a:hover{
+  background:#ffd54f;
+  color:#0b6b2f;
+}
