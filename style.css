@@ -145,3 +145,7 @@ footer{
 .whatsapp:hover {
   transform: scale(1.1);
 }
+.whatsapp img{
+  width:32px;
+  height:32px;
+}
