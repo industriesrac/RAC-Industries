@@ -259,12 +259,13 @@ nav a:hover{
   line-height:1.7;
   color:#f1f1f1;
 }
-nav{
-  background:#0b6b2f !important;
-  text-align:center;
-  padding:15px;
+nav a{
+  color:#0b6b2f !important;
+  font-weight:bold;
 }
 
-nav a{
-  color:#ffffff !important;
+nav{
+  background:#ffffff !important;
+  text-align:center;
+  padding:15px;
 }
