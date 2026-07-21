@@ -92,34 +92,35 @@ footer{
 #about,
 #why-us,
 #quality {
-    background: #ffffff;
-    margin: 30px auto;
-    padding: 40px 20px;
-    max-width: 1000px;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 40px;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  text-align: center;
 }
 
 #about h2,
 #why-us h2,
 #quality h2 {
-    color: #c62828;
-    margin-bottom: 20px;
+  color: #0b6b2f;
+  margin-bottom: 20px;
 }
 
 #about p,
 #quality p {
-    color: #555;
-    line-height: 1.8;
-    font-size: 17px;
+  line-height: 1.8;
+  font-size: 17px;
+  color: #555;
 }
 
 #why-us ul {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 #why-us li {
-    margin: 12px 0;
-    font-size: 17px;
+  padding: 10px 0;
+  font-size: 17px;
 }
