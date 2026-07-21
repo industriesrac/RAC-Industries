@@ -336,3 +336,24 @@ nav a {
   background:#128C7E;
   transform:translateY(-3px);
 }
+header{
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1{
+  font-size: 42px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,.4);
+}
+
+.subtitle{
+  font-size: 20px;
+}
+
+.hero-text{
+  max-width: 700px;
+  margin: 20px auto;
+  text-shadow: 1px 1px 6px rgba(0,0,0,.5);
+}
